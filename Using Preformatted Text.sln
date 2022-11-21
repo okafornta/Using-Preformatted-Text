@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Preformatted Text", "Using Preformatted Text\Using Preformatted Text.csproj", "{22FC3EAB-8835-4192-9605-1826BF458CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FC3EAB-8835-4192-9605-1826BF458CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FC3EAB-8835-4192-9605-1826BF458CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FC3EAB-8835-4192-9605-1826BF458CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FC3EAB-8835-4192-9605-1826BF458CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7BBCB3-2465-4C8B-B634-CB564C071F77}
+	EndGlobalSection
+EndGlobal
